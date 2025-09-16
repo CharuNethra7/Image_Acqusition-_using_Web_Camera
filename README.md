@@ -1,4 +1,4 @@
-# Image Acquisition using Web Camera
+# EX 02 Image Acquisition using Web Camera
 
 ### Name : CHARU NETHRA R
 ### Register No : 212223230035
